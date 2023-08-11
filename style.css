@@ -128,11 +128,11 @@ font-size: 100%;
 
 @media (max-width:767px){
     .login-page{
-        width: 100%;
+        width: 110%;
         height: 100vh;
         flex-direction: column;
         border: none;
-        border-radius: none;
+        border-radius: 1px;
      }
      .logo{
         margin-bottom: -5px;
